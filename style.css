@@ -1,0 +1,68 @@
+      body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+          background: linear-gradient(#f3b861,#f9cc9f,#f7cb89);
+      }
+
+      h1 {
+          margin-top: 20px;
+          text-align: center;
+          font-style: italic;
+      }
+
+      img {
+          display: block;
+          margin: 0 auto;
+          border-radius: 50%;
+          border:5px solid #000000; 
+          padding:3px; 
+          margin:5px;
+      }
+
+      h3 {
+          margin-top: 20px;
+          margin-bottom: 10px;
+      }
+      .details{
+        border-style: dotted;
+      }
+
+      table {
+          width: 100%;
+          border-collapse: collapse;
+          margin-bottom: 20px;
+      }
+
+      th, td {
+          border: 1px solid #dddddd;
+          padding: 8px;
+          text-align: left;
+      }
+
+      th {
+          background-color: #f2f2f2;
+      }
+
+      tr:nth-child(even) {
+          background-color: #f9f9f9;
+      }
+      .skills{
+        border-style: dotted;
+      }
+
+      .language{
+        border-style: dotted;
+      }
+
+      .experience p {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+
+        .experience h4 {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 18px;
+            color: #333;
+        }
